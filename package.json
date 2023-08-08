@@ -24,7 +24,7 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-progressive-image": "^0.6.0",
-    "react-redux": "^7.0.3",
+    "react-redux": "^7.2.9",
     "react-router-dom": "^5.0.1",
     "react-sound": "^1.2.0",
     "redux": "^4.0.1",
